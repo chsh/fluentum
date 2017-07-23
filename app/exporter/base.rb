@@ -1,0 +1,2 @@
+class Exporter::Base
+end
