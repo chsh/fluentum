@@ -1,2 +1,2 @@
-class Converter::Base
+class Converter::Base < Base
 end

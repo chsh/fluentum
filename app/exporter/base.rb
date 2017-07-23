@@ -1,2 +1,2 @@
-class Exporter::Base
+class Exporter::Base < Base
 end
